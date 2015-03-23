@@ -1,6 +1,5 @@
-A simple NodeJS app that gets a Haiku using the `haiku` command by
-[~vilmibm](http://tilde.club/~vilmibm/). It uses words from the Haiku to try
-and fetch a relevant tunblr background.
+A simple NodeJS app that gets a Haiku from the NY Times [haikus page](http://haikus.nytimes.com)
+and matches it to a relevant Tumblr background.
 
 Built with NodeJS and emberJS. [Code available on
 GitHub](https://github.com/coaxial/refrigerator).
